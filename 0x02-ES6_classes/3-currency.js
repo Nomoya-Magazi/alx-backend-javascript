@@ -5,11 +5,11 @@ export default class Currency {
   }
 
   get code() {
-    return this.code;
+    return this._code;
   }
 
-  set code(c) {
-    this._code = c;
+  set code(n) {
+    this._code = n;
   }
 
   get name() {
