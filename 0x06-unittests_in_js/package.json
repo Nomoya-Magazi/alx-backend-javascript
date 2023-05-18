@@ -14,7 +14,9 @@
   "license": "ISC",
   "devDependencies": {
     "assert": "^2.0.0",
+    "chai": "^4.3.7",
     "eslint": "^8.40.0",
-    "mocha": "^10.2.0"
+    "mocha": "^10.2.0",
+    "sinon": "^15.0.4"
   }
 }
